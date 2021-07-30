@@ -27,5 +27,11 @@ https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
 
 Euler Project
 
+Statistics / Data Science
+https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info
+https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf
+book : Practical Statistics for Data Scientists
+
+
 
 
