@@ -1,0 +1,31 @@
+project Gutenberg
+refinance math
+geometric series
+https://en.m.wikipedia.org/wiki/Newton's_method
+
+
+
+https://ruwix.com/the-rubiks-cube/how-to-solve-the-rubiks-cube-beginners-method/
+algdb.net
+https://cube-solver.com/
+https://alg.cubing.net/
+
+
+https://www.coursera.org/learn/mathematics-for-computer-science
+https://en.wikipedia.org/wiki/Matrix_(mathematics)
+https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms
+
+
+
+https://www.feynmanlectures.caltech.edu/
+
+Lambda calculus
+
+https://mathematica.stackexchange.com/questions/214486/how-to-make-this-dragon-curve
+
+https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/
+
+
+
+
+
