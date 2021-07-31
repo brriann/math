@@ -33,5 +33,14 @@ https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print12.pdf
 book : Practical Statistics for Data Scientists
 
 
+https://openstax.org/subjects/math
+https://libgen.is/
+http://rosalind.info/problems/locations/
+DeMorgan's Law
+https://www.coursera.org/specializations/discrete-mathematics
+https://en.wikipedia.org/wiki/LLVM
+https://www.reddit.com/r/teenagers/comments/bgn3dl/those_damn_functions/
+https://www.reddit.com/r/dataisbeautiful/comments/a4l0ta/the_unit_circle_oc/
+
 
 
