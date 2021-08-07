@@ -1,0 +1,5 @@
+https://www.edx.org/course/linear-algebra-foundations-to-frontiers
+https://www.edx.org/course/introduction-to-linear-models-and-matrix-algebra
+https://www.coursera.org/learn/linear-algebra-machine-learning
+
+https://www.coursera.org/specializations/mathematics-machine-learning
